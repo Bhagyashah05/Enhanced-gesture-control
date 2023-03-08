@@ -10,4 +10,3 @@ pycaw==20181226
 screen-brightness-control==0.9.0
 eel==0.14.0
 streamlit
-cv2
